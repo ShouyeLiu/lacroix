@@ -1,3 +1,1 @@
-# git-wiki
-
-A github pages / jekyll powered wiki. Readme and demo: (http://drassil.github.io/git-wiki)
+Lacroix wiki at [https://gihad.github.io/lacroix](https://gihad.github.io/lacroix)
