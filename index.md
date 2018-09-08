@@ -1,6 +1,6 @@
-Welcome to the Lacroix Wiki
+# Welcome to the Lacroix Wiki
 
-Community
+## Community
 
 - Facebook group: [https://www.facebook.com/groups/2146199132290429/](https://www.facebook.com/groups/2146199132290429/)
 - Discord group: [https://discord.gg/45pMj7H](https://discord.gg/45pMj7H) (#lacroix channel)
