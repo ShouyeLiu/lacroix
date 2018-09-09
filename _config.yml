@@ -1,6 +1,7 @@
 title: Lacroix Wiki
 description: Wiki for Lacroix owners
 show_downloads: false
+comments: true
 git_branch: master
 logo_url: https://static.wixstatic.com/media/f6152c_6adfeaecdc39419b81e94b338f7db4af~mv2.png/v1/fill/w_566,h_160,al_c,q_80,usm_0.66_1.00_0.01/f6152c_6adfeaecdc39419b81e94b338f7db4af~mv2.webp
 google_analytics:
